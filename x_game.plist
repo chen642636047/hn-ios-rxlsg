@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hanniu.en.wgame</string>
+				<string>com.hanniu.game.wgamebeta</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
